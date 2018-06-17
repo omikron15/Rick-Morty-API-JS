@@ -1,0 +1,22 @@
+#characters-div{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#character-div{
+   border: 1px solid black;
+   padding: 5px;
+   margin: 5px;
+   width: 300px;
+   height: auto;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: white;
+}
+
+body{
+  background-color: grey;
+}
